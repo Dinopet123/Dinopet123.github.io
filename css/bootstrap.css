@@ -903,12 +903,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #18bc9c;
+  color: #E28A12;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #18bc9c;
+  color: #E28A12;
   text-decoration: underline;
 }
 a:focus {
@@ -1183,7 +1183,7 @@ a.bg-primary:hover {
   background-color: #1a242f;
 }
 .bg-success {
-  background-color: #18bc9c;
+  background-color: #E28A12;
 }
 a.bg-success:hover {
   background-color: #128f76;
